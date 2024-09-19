@@ -20,5 +20,7 @@ Here’s a rephrased version of your components:
    - Uses the Pinecone Vector Database for fast document retrieval.<br>
    - Enables students to ask questions directly related to the uploaded PDFs, promoting deeper understanding.<br>
 
-
+<br>
+<br>
+<br>
 Feel free to give suggestions for improvements ! <br>
